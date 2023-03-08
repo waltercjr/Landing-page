@@ -1,6 +1,7 @@
 *{
     margin: 0;
     padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 .cabeca1 {
@@ -305,10 +306,16 @@ li {
 .a1 {
     text-decoration: none;
     color: #000000;
-
+    position: absolute;
 }
 
 .a2 {
     text-decoration: none;
     color: #008060;
+}
+
+.plus {
+    margin-left: 550px;
+    max-width: 10px;
+    position: relative;
 }
